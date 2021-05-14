@@ -1,5 +1,5 @@
 FROM python:3.7-slim
-MAINTAINER nikita kedrunn
+MAINTAINER nikita kedrun
 
 ENV PYTHONUNBUFFERED 1
 
